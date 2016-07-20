@@ -1,12 +1,12 @@
-package my.sample;
+package my.sample.payroll;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class ReactAndSpringDataRestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Application.class, args);
+        SpringApplication.run(ReactAndSpringDataRestApplication.class, args);
     }
 }

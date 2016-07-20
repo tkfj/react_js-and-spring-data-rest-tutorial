@@ -20,3 +20,8 @@ Thumbs.db
 # Maven
 target
 log
+
+# Node.js
+node_modules
+built
+bower_components
